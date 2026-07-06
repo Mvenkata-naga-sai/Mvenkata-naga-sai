@@ -1,44 +1,81 @@
-<h1>Hi, I'm Sai 👋</h1><h3 style="color:#2F80ED;">Full Stack Web Developer | Python Enthusiast</h3>---
+👋 Hi, I'm Sai
 
-<h2 style="color:#27AE60;">Professional Summary</h2>- Experienced in Full Stack Web Development
-- Strong in Python, REST APIs, and database design
-- Interested in Cloud Computing and AI/ML
-- Focused on writing clean, efficient, and scalable code
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Python+Enthusiast;Open+Source+Learner;Always+Building+🚀" />
+</p>---
 
----
+🚀 About Me
 
-<h2 style="color:#F2994A;">Technical Skills</h2>Languages:
-"Python" "JavaScript" "HTML" "CSS"
-
-Frameworks & Libraries:
-"Django" "Flask" "React"
-
-Databases:
-"MySQL" "SQLite"
-
-Tools & Platforms:
-"Git" "GitHub" "VS Code" "Postman" "Google Cloud"
+- 🔭 Working on Full Stack Web Development
+- 🤝 Open to collaborations & internships
+- 🌱 Learning AI/ML & Cloud Technologies
+- 💬 Ask me about Python, APIs, Web Development
+- ⚡ Love building real-world projects
 
 ---
 
-<h2 style="color:#9B51E0;">Projects</h2>Enterprise ERP & Analytics Platform
+🛠️ Tech Stack
 
-- Developed a scalable ERP system with multiple modules and analytics dashboards
+💻 Languages
 
-Portfolio Website
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Designed and built a personal portfolio to showcase skills and projects
+⚙️ Frameworks & Libraries
 
-AI Chatbot
+"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- Implemented a basic NLP-based chatbot for user interaction
+🗄️ Databases
 
-Client Lead Management System
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- Built a system to manage and track leads efficiently
+☁️ Tools & Platforms
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Google Cloud" (https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-<h2 style="color:#EB5757;">Contact</h2>- LinkedIn: https://www.linkedin.com/in/mahamkali-venkata-naga-sai-1636082bb 
-email: mahamkai.sai341@gmail.com
+📌 Featured Projects
 
+🔹 Enterprise ERP & Analytics Platform
+🔹 Portfolio Website
+🔹 AI Chatbot with NLP
+🔹 Client Lead Management System
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>---
+
+📈 Activity Graph
+
+""activity graph" (https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)" (https://github.com/YOUR_USERNAME)
+
+---
+
+🐍 Contribution Snake
+
+"snake gif" (https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+🌐 Connect with Me
+
+""LinkedIn" https://www.linkedin.com/in/mahamkali-venkata-naga-sai-1636082bb
+""Gmail" mahamkai.sai341@gmail.com
+---
+
+⭐️ From "Sai" (https://github.com/Mvenkata-naga-sai)
